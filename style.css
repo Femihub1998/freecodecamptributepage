@@ -1,0 +1,27 @@
+main{
+    background-color: grey;
+    padding-bottom: 40px;
+    
+}
+h1,p,h3{
+    text-align: center;
+}
+#img-div{
+ text-align: center;
+ background-color: white;
+}
+/* #sub-page{
+    background-color: white;
+} */
+.center-list{
+   margin-left: 30%;
+    width: 40%;
+}
+ul{
+    text-align: ;
+}
+#image{
+   max-width: 100%;
+  height: auto;
+  display: block;
+}
